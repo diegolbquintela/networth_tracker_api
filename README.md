@@ -1,0 +1,3 @@
+Technologies used:
+.SQLC
+.Docker

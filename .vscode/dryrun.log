@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/diegoquintela/Desktop/net-worth-tracker/networth_tracker'
+docker exec -it postgres12 createdb --username=root --owner=root networth_tracker
+make: Leaving directory `/Users/diegoquintela/Desktop/net-worth-tracker/networth_tracker'
+ 
